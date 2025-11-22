@@ -1,0 +1,15 @@
+{
+  "name": "geyser-monitor-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that monitors GeyserMC download pages for build changes",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}
